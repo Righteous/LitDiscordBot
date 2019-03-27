@@ -7,7 +7,7 @@ from utils import permissions, default
 
 config = default.get("config.json")
 description = """
-the discord bot nigga
+the discord bot
 """
 
 
